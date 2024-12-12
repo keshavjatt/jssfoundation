@@ -2733,11 +2733,12 @@ h1.title1 {
     background: #123a54;
 }
 
-.quick-donation-section input[type="radio"]+label .check-icon::after {
+.quick-donation-section input[type="radio"] + label .check-icon::after {
     content: "";
     width: 18px;
     height: 14px;
-    background: url(img/icon/checkbox-check.png) -18px top no-repeat cursor: pointer;
+    background: url("img/icon/checkbox-check.png") -18px top no-repeat;
+    cursor: pointer; /* Cursor property moved outside background */
     position: absolute;
     left: -39px;
     top: 5px;
