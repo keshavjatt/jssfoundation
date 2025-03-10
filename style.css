@@ -694,10 +694,6 @@ body {
 /*  3. Slider CSS
 /*----------------------------------------*/
 
-.slider-area {
-    position: relative;
-}
-
 .nivo-caption {
     background: transparent none repeat scroll 0 0;
     bottom: 0;
@@ -755,6 +751,11 @@ h1.title1 {
 
 .nivo-nextNav .right:hover i {
     color: #29A42B;
+}
+
+/* Silder CSS Starts Here */
+.slider-area {
+    position: relative;
 }
 
 .slider-area .nivo-controlNav {
