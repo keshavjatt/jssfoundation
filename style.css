@@ -1589,12 +1589,12 @@ h1.title1 {
 
 #scrollUp {
     background-color: #29A42B;
-    bottom: 5px;
+    bottom: 39px;
     cursor: pointer;
     display: none;
     height: 34px;
     position: fixed;
-    right: 12px;
+    right: 36px;
     text-align: center;
     width: 40px;
     z-index: 9999;
