@@ -282,9 +282,9 @@ body {
 }
 
 .btn-lg:hover {
-    background: #0AAAC0;
+    background: #29A42B;
     color: #fff;
-    border: 1px solid #0AAAC0;
+    border: 1px solid #29A42B;
 }
 
 .btn-md {
@@ -298,9 +298,9 @@ body {
 }
 
 .btn-md:hover {
-    background: #0AAAC0;
+    background: #29A42B;
     color: #fff;
-    border: 1px solid #0AAAC0;
+    border: 1px solid #29A42B;
 }
 
 .btn-sm {
@@ -927,7 +927,7 @@ h1.title1 {
 /* help-icon */
 
 .help-icon {
-    border: 1px solid #0aaac0;
+    border: 1px solid #29A42B;
     float: left;
     margin-right: 30px;
     text-align: center;
@@ -1078,7 +1078,7 @@ h1.title1 {
 }
 
 .count-down .tab-val {
-    background: #0aaac0 none repeat scroll 0 0 padding-box content-box;
+    background: #29A42B none repeat scroll 0 0 padding-box content-box;
     border: 2px solid #ffffff;
     color: #ffffff;
     font-family: roboto;
@@ -1316,7 +1316,7 @@ h1.title1 {
 }
 
 .blo-image-and-date>a {
-    background: #0aaac0 none repeat scroll 0 0;
+    background: #29A42B none repeat scroll 0 0;
     color: #fff;
     font-family: "Lato", sans-serif;
     font-size: 14px;
@@ -1357,7 +1357,7 @@ h1.title1 {
 
 .comment a:hover i,
 .admin>a:hover i {
-    color: #0AAAC0;
+    color: #29A42B;
 }
 
 .comment>a {
@@ -1401,8 +1401,8 @@ h1.title1 {
 }
 
 .blog-text>a:hover {
-    color: #0AAAC0;
-    border-bottom: 1px solid #0AAAC0;
+    color: #29A42B;
+    border-bottom: 1px solid #29A42B;
 }
 
 
@@ -1446,7 +1446,7 @@ h1.title1 {
 }
 
 .footer-widget-title>h3::after {
-    background: #0aaac0 none repeat scroll 0 0;
+    background: #29A42B none repeat scroll 0 0;
     content: "";
     display: block;
     height: 3px;
@@ -1503,11 +1503,11 @@ h1.title1 {
 }
 
 .footer-widget.widget-two li:hover::after {
-    color: #0E9CB1;
+    color: #288A29;
 }
 
 .footer-widget.widget-two a:hover {
-    color: #0E9CB1;
+    color: #288A29;
 }
 
 
@@ -1637,7 +1637,7 @@ h1.title1 {
 }
 
 .back-home a i {
-    color: #0aaac0;
+    color: #29A42B;
     margin-right: 5px;
 }
 
@@ -1731,7 +1731,7 @@ h1.title1 {
 }
 
 .single-project h2::after {
-    background: #0aaac0 none repeat scroll 0 0;
+    background: #29A42B none repeat scroll 0 0;
     bottom: 0;
     content: "";
     height: 5px;
@@ -2312,7 +2312,7 @@ h1.title1 {
 }
 
 .error-content h1 span {
-    color: #0aaac0;
+    color: #29A42B;
 }
 
 .error-content h3 {
