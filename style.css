@@ -3284,3 +3284,67 @@ h1.title1 {
     font-size: 14px;
     color: #777;
 }
+
+/* Custom slider Css code starts here */
+.custom-carousel-container {
+    position: relative;
+    max-width: 100%;
+    margin: auto;
+    overflow: hidden;
+  }
+  
+  /* Slide wrapper */
+  .custom-carousel-wrapper {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    width: 100%;
+  }
+  
+  /* Slide */
+  .custom-carousel-slide {
+    min-width: 100%;
+    box-sizing: border-box;
+  }
+  
+  /* Slide Image */
+  .custom-carousel-slide img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  /* Navigation Buttons */
+  .custom-prev,
+  .custom-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    font-size: 24px;
+    padding: 10px;
+    cursor: pointer;
+    z-index: 10;
+  }
+  
+  .custom-prev {
+    left: 10px;
+  }
+  
+  .custom-next {
+    right: 10px;
+  }
+  
+  .custom-prev:hover,
+  .custom-next:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .custom-buttons a {
+      font-size: 14px;
+      padding: 8px 16px;
+    }
+  }  
